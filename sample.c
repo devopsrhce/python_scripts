@@ -1,6 +1,3 @@
-#include<stdio.h>
-int main()
-{
-printf("hello world");
-return 0;
-}
+#!/usr/bin/env python
+#
+print("Test file")
